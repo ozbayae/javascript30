@@ -1,11 +1,10 @@
 1: Find a background. /Done: https://static.pexels.com/photos/2143/lights-party-dancing-music.jpg
-
-
-2: Make a row of elements, representing the keys.
+2: Make a row of elements, representing the keys. /Done
 	2.1: find a resource for flexbox. /Done: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-	2.2: Design one element
-3: Make a class that is applied to an element when a "live" key is pressed.
-	3.1 Figure out how to animate using CSS when applying a class.
+	2.2: Design one element /Done
+3: Make a class that is applied to an element when a "live" key is pressed. /Done
+ 	3.1 Figure out how to animate using CSS when applying a class. /Done
+
 4: Implement on key pressed events in Javascript for elements.
 	4.1 On key pressed, class should be applied to corresponding element.
 	4.2 On key pressed, corresponding audio file should play (the audio files are in the starter folder)
