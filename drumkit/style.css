@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+.keys {
+    background-color: lightgrey;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    flex-basis: 1000px;
+}
+
+.key {
+    background-color: grey;
+    flex-basis: 6em;
+    margin: 0 10px;
+}
