@@ -42,7 +42,7 @@ body {
 }
 
 .animated {
-    animation-duration: 0.8s;
+    animation-duration: 0.3s;
     animation-name: expandAndGlow;
 }
 
